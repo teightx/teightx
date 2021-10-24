@@ -1,10 +1,25 @@
-- 👋 Hi, I’m Thiago Santos
-- 👀 I’m interested in develop frontend and full-stack software
-- 🌱 I’m currently learning backend
-- 💞️ I’m looking to collaborate on frontend
-- 📫 To reach me, just send me an e-mail or DM in my Instagram.
+## I'm (SEU NOME)!
 
-<!---
-teightx/teightx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 
+
+:computer: I'm Front-End Developer!
+
+:house_with_garden: I’m from Brazil.
+
+:books: I’m currently learning everything.
+
+:outbox_tray: 2021 Goals: create a new project and find a new job.
+
+ 
+
+## About me
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/teightx)](https://github.com/teightx)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/teight/)](https://www.linkedin.com/in/teight/)
+
+
+
+- Thanks for visiting.
+
+- Enjoy it!! o/
