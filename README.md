@@ -1,18 +1,18 @@
-## I'm (SEU NOME)!
+## I'm Thiago!
 
  
 
-:computer: I'm Front-End Developer!
+:computer: I'm Full-Stack Developer!
 
 :house_with_garden: I’m from Brazil.
 
 :books: I’m currently learning everything.
 
-:outbox_tray: 2021 Goals: create a new project and find a new job.
+:outbox_tray: 2021 Goals: create a new big project.
 
  
 
-## About me
+## Find me:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/teightx)](https://github.com/teightx)
 
