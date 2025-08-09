@@ -5,7 +5,7 @@
 
 <!-- Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+eu+sou+Thiago+Santos+%F0%9F%91%8B;Desenvolvedor+Salesforce+(Mid-Level);Apex+%7C+LWC+%7C+Integra%C3%A7%C3%B5es+%7C+IA;Eu+transformo+ideias+em+solu%C3%A7%C3%B5es!" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=980&lines=Thiago+Santos+%E2%80%94+Senior+Salesforce+Developer;Apex+%7C+LWC+%7C+Integra%C3%A7%C3%B5es+%7C+IA+Generativa;Escalabilidade%2C+Qualidade+e+Entrega+Cont%C3%ADnua" alt="typing"/>
 </p>
 
 <!-- Links -->
@@ -22,52 +22,75 @@
   <img src="https://img.shields.io/github/stars/teightx?affiliations=OWNER&label=Estrelas&style=for-the-badge&color=5eead4" alt="stars"/>
 </p>
 
-## Sobre mim
+## Sobre
 
-Desenvolvedor Salesforce de nível pleno. Especialista em Apex, LWC e integrações (incluindo IA). Atuo criando soluções escaláveis e inovadoras que conectam tecnologia e impacto real.
-
-- Atual: Salesforce Developer na Engineer Access (Nov/2024 — Presente · Remoto · NYC)
-- Anterior: Salesforce Developer na Capgemini (Jan/2022 — Nov/2024)
-- Portfólio: `thiago.dev` com projetos e cases reais
-
-## Experiência profissional
-
-### Engineer Access — Salesforce Developer
-Nov 2024 — Presente · Remoto (New York City)
-- Soluções escaláveis em Apex e LWC alinhadas ao negócio
-- Alinhamento técnico com clientes internacionais
-- Integrações inteligentes (OpenAI, AWS Comprehend, Claude AI)
-- Deploys com testes unitários e otimizações de performance
-
-### Capgemini — Salesforce Developer
-Jan 2022 — Nov 2024 · Remoto
-- Migração Classic → Lightning (Aura → LWC), reduzindo carregamento de 6s para 3s
-- Recomendação de artigos com Einstein GPT (menos suporte humano)
-- Automação, regras de compartilhamento e estratégias de segurança
-- Colaboração global em soluções Salesforce escaláveis
-
-### Vibbra! — Freelance Developer (2021) · Remoto
-- Apps para o setor fitness; melhorias de performance e responsividade
-
-### Núcleo de Ensino Técnico Sinai — Full Stack (2018–2021) · Remoto
-- Site institucional responsivo; front-end e back-end
-
-## Stack principal
+<table>
+  <tr>
+    <td>
+      <strong>Quem sou</strong><br/>
+      Senior Salesforce Developer com foco em arquitetura limpa, integrações e IA aplicada ao Salesforce. Entrego soluções escaláveis, mensuráveis e seguras.
+      <br/><br/>
+      <strong>Atuação</strong><br/>
+      Product-minded, colaboração com times globais, DX, observabilidade e performance.
+    </td>
+    <td width="380">
+      <img src="https://github-readme-stats.vercel.app/api?username=teightx&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&rank_icon=github" height="150"/>
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teightx&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" height="120"/>
+    </td>
+  </tr>
+</table>
 
 <p>
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apex-1798c1?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/LWC-ff9800?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Angular-dd0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569b?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175c2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Senior-Experienced-10b981?style=flat-square" />
+  <img src="https://img.shields.io/badge/Salesforce-Apex%20%7C%20LWC-0ea5e9?style=flat-square&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Integrations-REST%2FSOAP%20%7C%20Events-22d3ee?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI-OpenAI%20%7C%20AWS%20Comprehend%20%7C%20Claude-5eead4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Quality-Testing%20%7C%20Observability-8b5cf6?style=flat-square" />
+</p>
+
+## Experiências
+
+<details open>
+  <summary><strong>Engineer Access</strong> — Senior Salesforce Developer · Nov 2024 — Presente · Remoto (NYC)</summary>
+  
+  - Soluções escaláveis em Apex e LWC alinhadas a KPIs de negócio
+  - Integrações inteligentes (OpenAI, AWS Comprehend, Claude AI)
+  - Arquitetura, revisões técnicas, mentoria e DX
+  - Deploys com testes robustos e SLOs de performance
+</details>
+
+<details>
+  <summary><strong>Capgemini</strong> — Salesforce Developer · Jan 2022 — Nov 2024 · Remoto</summary>
+  
+  - Migração Classic → Lightning (Aura → LWC), de 6s para 3s
+  - Recomendação com Einstein GPT (redução de suporte humano)
+  - Regras de compartilhamento, segurança e automações em Apex
+  - Colaboração com squads globais e entregas contínuas
+</details>
+
+<details>
+  <summary><strong>Vibbra!</strong> — Freelance Developer · 2021 · Remoto</summary>
+  
+  - Apps para fitness, otimizações de banco e responsividade
+</details>
+
+<details>
+  <summary><strong>Núcleo de Ensino Técnico Sinai</strong> — Full Stack · 2018 — 2021 · Remoto</summary>
+  
+  - Site institucional responsivo; front-end e back-end
+</details>
+
+## Tech Stack
+
+<!-- Icon grid -->
+<p>
+  <img src="https://skillicons.dev/icons?i=salesforce,apex,lightning,js,ts,nodejs,react,angular,java,flutter,dart,py,go" />
+</p>
+
+### Plataforma, Dados e DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,aws,gcp,azure,docker,kubernetes,nginx,linux,bash,git,github,gitlab" />
 </p>
 
 ## Projetos em destaque
@@ -94,28 +117,25 @@ Jan 2022 — Nov 2024 · Remoto
 
 </details>
 
-## Estatísticas do GitHub
+## Métricas e Troféus
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=teightx&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&rank_icon=github" alt="stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teightx&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="top-langs" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=teightx&theme=tokyonight&hide_border=true" alt="streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=teightx&theme=onestar&no-bg=true&no-frame=true&row=1&column=7" alt="trophy"/>
+  <img height="150" src="https://streak-stats.demolab.com?user=teightx&theme=tokyonight&hide_border=true" alt="streak"/>
+  <img height="150" src="https://github-profile-trophy.vercel.app/?username=teightx&theme=onestar&no-bg=true&no-frame=true&row=1&column=7" alt="trophy"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=teightx&bg_color=0d1117&color=22d3ee&line=5eead4&point=ffffff&area=true&hide_border=true" alt="activity-graph"/>
 </p>
 
-## Contato
+<!-- Opcional: snake (requer Actions) -->
+<!--
+<p align="center">
+  <img src="https://raw.githubusercontent.com/teightx/teightx/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
+-->
 
-Estou sempre interessado em novos projetos e oportunidades. Vamos conversar!
+## Contato
 
 - LinkedIn: https://www.linkedin.com/in/thiagosantosdev/
 - Portfólio: https://teightx.github.io/thiago.dev/
@@ -124,7 +144,7 @@ Estou sempre interessado em novos projetos e oportunidades. Vamos conversar!
 <details>
   <summary>English version</summary>
 
-Salesforce Developer focused on Apex, LWC and integrations (including AI). I value clean architecture, observability and developer experience. Open to collaboration and mentoring. Check featured projects above and reach out via LinkedIn or email.
+Senior Salesforce Developer focused on Apex, LWC and AI-powered integrations. I value clean architecture, observability and developer experience. Open to collaboration and mentoring.
 
 </details>
 
